@@ -186,5 +186,18 @@ WHERE rn > 1;
 
 select * from AmazonSalesTemp
 
+Key Insights-
+
 Power BI -https://app.powerbi.com/groups/me/reports/6d27e6d0-07f5-44a6-9aae-3c3ab4f236ba/d2120115e970eabd065a?experience=power-bie
 <img width="1207" height="857" alt="Screenshot 2025-12-02 160735" src="https://github.com/user-attachments/assets/c24a1d57-eb5c-430f-8dff-d468c6cba46d" />
+
+Key Insights 
+
+
+- Total Revenue: £78.6M, Total Quantity: 116K units, Total Orders: 113K.
+- Monthly Sales Trend:April recorded the highest sales at £29M.
+- Top Sales City: Bengaluru, leading in total revenue.
+- Product Category Performance: Highest sales for categories Sales are Set, Kurta, and Western Dress, respectively.
+- Order Fulfillment Status: Shipped orders generated £50M, Delivered £18M, Cancelled £6M, indicating over half of the products were successfully shipped.
+- Order Status Distribution: 64% shipped, 23% delivered, 9% cancelled (based on total orders).
+- Size & Category Insights: Medium size was most ordered, followed by L, XL, XXL, and S. Among categories, SET had the highest orders consistently.
